@@ -34,7 +34,7 @@ To write a Python program to demonstrate the **adjacency list representation** o
 
 ---
 
-## PYTHON PROGRAM
+## PYTHON PROGRAM:
 
 ```python
 class AdjNode:
