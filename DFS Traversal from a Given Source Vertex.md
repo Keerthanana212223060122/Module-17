@@ -25,7 +25,7 @@ To write a Python program to **print DFS traversal** from a given source vertex.
 
 **Step 8**: End the program.
 
-## PYTHON PROGRAM
+## PYTHON PROGRAM:
 
 ```python
 from collections import defaultdict
