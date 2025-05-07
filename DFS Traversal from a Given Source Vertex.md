@@ -62,5 +62,5 @@ g.DFS(n)
 
 ## RESULT:
 
-Hence, the program is successfully executed and the Depth First Search (DFS) traversal from the given source vertex is verified.
+Hence, The program is successfully executed and the Depth First Search (DFS) traversal from the given source vertex is verified.
 
