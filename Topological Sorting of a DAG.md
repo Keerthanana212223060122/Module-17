@@ -20,7 +20,7 @@ To write a Python program to **print topological sorting** of a **Directed Acycl
 
 ---
 
-## PYTHON PROGRAM
+## PYTHON PROGRAM:
 
 ```python
 def addEdge(u, v):
