@@ -53,5 +53,5 @@ printMat(degseq, n)
 ![Screenshot 2025-05-07 182708](https://github.com/user-attachments/assets/d562a2a4-4a58-4e22-b54e-268aea796dbd)
 
 ## RESULT:
-Hence, the program is successfully executed and a simple graph has been generated for the given fixed degree sequence.
+Hence, The program is successfully executed and a simple graph has been generated for the given fixed degree sequence.
 
