@@ -60,7 +60,7 @@ g.BFS(n)
 
 ## OUTPUT:
 
-![Screenshot 2025-05-07 181719](https://github.com/user-attachments/assets/04021241-f0c2-4202-a53e-51b9fdf74a6f)
+![Screenshot 2025-05-07 182926](https://github.com/user-attachments/assets/5f9aabf4-3982-4c61-88d4-ab2b187bffd1)
 
 
 ## RESULT:
