@@ -57,7 +57,8 @@ g.DFS(n)
 
 ## OUTPUT:
 
-![Screenshot 2025-05-07 182204](https://github.com/user-attachments/assets/5f955617-8a0d-4e47-b852-3da66f220c7d)
+![Screenshot 2025-05-07 183025](https://github.com/user-attachments/assets/9646d738-fb13-4253-b756-3a2902daefa0)
+
 
 ## RESULT:
 
