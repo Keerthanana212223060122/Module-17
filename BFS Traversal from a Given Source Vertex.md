@@ -23,7 +23,7 @@ To write a Python program to **print BFS traversal** from a given source vertex.
 
 **Step 7**: End the program.
 
-## PYTHON PROGRAM
+## PYTHON PROGRAM:
 
 ```python
 from collections import defaultdict
