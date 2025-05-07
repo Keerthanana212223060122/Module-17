@@ -77,7 +77,8 @@ if __name__ == "__main__":
 
 ## OUTPUT:
 
-![Screenshot 2025-05-07 181118](https://github.com/user-attachments/assets/3c32df62-4194-4f64-a811-3b75da3b6f43)
+![Screenshot 2025-05-07 182832](https://github.com/user-attachments/assets/94061cbf-2621-4c12-b28d-ecbe5f1efcba)
+
 
 ## RESULT:
 Hence, The program is successfully executed and the adjacency list representation of the given graph is verified.
